@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="6.1 рек/6.1 рек.vcxproj" />
+  <Project Path="6.1 рек/6.1 рек.vcxproj" Id="befdbd8f-f087-4cb0-8333-e1766a52a9f0" />
+  <Project Path="test/test.vcxproj" />
 </Solution>

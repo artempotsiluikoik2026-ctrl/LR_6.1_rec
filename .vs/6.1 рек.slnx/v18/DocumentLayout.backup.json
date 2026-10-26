@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u041B\u041D\u041F\u0423\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\Visual Studio Projects\\6.1 \u0440\u0435\u043A\\",
+  "WorkspaceRootPath": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.1 \u0440\u0435\u043A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEFDBD8F-F087-4CB0-8333-E1766A52A9F0}|6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.vcxproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u041B\u041D\u041F\u0423\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\Visual Studio Projects\\6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3B3B575B-5251-9595-CC57-C425EE8C35F0}|test\\test.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.1 \u0440\u0435\u043A\\test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B3B575B-5251-9595-CC57-C425EE8C35F0}|test\\test.vcxproj|solutionrelative:test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFDBD8F-F087-4CB0-8333-E1766A52A9F0}|6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BEFDBD8F-F087-4CB0-8333-E1766A52A9F0}|6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.vcxproj|solutionrelative:6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.1 \u0440\u0435\u043A\\test\\test.cpp",
+              "RelativeDocumentMoniker": "test\\test.cpp",
+              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.1 \u0440\u0435\u043A\\test\\test.cpp",
+              "RelativeToolTip": "test\\test.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-26T07:39:13.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "6.1 \u0440\u0435\u043A.cpp",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u041B\u041D\u041F\u0423\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\Visual Studio Projects\\6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.cpp",
+              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.cpp",
               "RelativeDocumentMoniker": "6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.cpp",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F \u041B\u041D\u041F\u0423\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\Visual Studio Projects\\6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.cpp",
+              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.cpp",
               "RelativeToolTip": "6.1 \u0440\u0435\u043A\\6.1 \u0440\u0435\u043A.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-24T10:46:37.078Z",
               "EditorCaption": ""
